@@ -1,4 +1,4 @@
-ipwd - present working directory - to see which folder we are
+pwd - present working directory - to see which folder we are
 ll - To list files -- To see files in the current durectory/folder
 clear - clear the screen
 mkdir manikandan --> It will craete manikandan folder
