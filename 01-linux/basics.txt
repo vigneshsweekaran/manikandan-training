@@ -1,0 +1,12 @@
+ipwd - present working directory - to see which folder we are
+ll - To list files -- To see files in the current durectory/folder
+clear - clear the screen
+mkdir manikandan --> It will craete manikandan folder
+cd manikandan --> To go inside manikandan folder
+vi hello.txt --> To create files
+:wq! --> To save the file
+free -h --> to check the RAM
+df -h --> To check the storage
+rm hello.txt --> to delete the file
+cp hello.txt hello-1.txt --> To copy file
+mv hello.txt manikandan/ --> Move hello.txt file to manikandan folder
